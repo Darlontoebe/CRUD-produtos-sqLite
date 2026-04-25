@@ -48,4 +48,4 @@ O sistema permite gerenciar um estoque de produtos com todas as operações bás
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Darlontoebe/crud_produtos_sqlite.git
+   https://darlontoebe.github.io/CRUD-produtos-sqLite/
